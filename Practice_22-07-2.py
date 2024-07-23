@@ -50,7 +50,7 @@ print(type(lst))
 print(lst)
 
 # m -2 
-lst = [1,2,3,3.6,"Adarsh",True]
+lst = [1,2,3,3.6,"Dileep",True]
 print(lst)
 
 # m - 3
